@@ -1,0 +1,20 @@
+[
+  {
+    "keys": [
+      "command+l"
+    ],
+    "command": "reindent"
+  },
+  {
+    "keys": [
+      "ctrl+shift+s"
+    ],
+    "command": "auto_save"
+  }, 
+  {
+    "keys": [
+      "ctrl+shift+i"
+    ],
+    "command": "js_format"
+  }
+]

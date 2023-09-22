@@ -1,0 +1,5 @@
+[user]
+	name = Faroud Sadikou
+	email = faroud@beezeelinx.com
+[url "ssh://git@github.com/beezeelinx"]
+        insteadOf = https://github.com/beezeelinx
