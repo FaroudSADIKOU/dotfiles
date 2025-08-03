@@ -1,0 +1,29 @@
+# -------- CORE CLI --------
+brew "git"
+brew "stow"          # symlink manager
+brew "nvm"
+brew "pyenv"
+brew "asdf"
+brew "direnv"
+brew "fzf"
+brew "starship"
+brew "jq"
+brew "watch"
+brew "gh"            # GitHub CLI
+
+# -------- CONTAINERS --------
+# brew "docker"
+# brew "docker-compose"
+brew "kind"
+brew "kubectl"
+
+# -------- EDITORS / IDEs --------
+cask "visual-studio-code"
+cask "android-studio"
+cask "docker"        # Docker Desktop GUI
+cask "pgadmin4"    # PostgreSQL GUI
+
+# -------- UTILITIES --------
+cask "google-chrome"
+cask "postman"
+
